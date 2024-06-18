@@ -2,4 +2,7 @@
 *.uvoptx
 Listings/
 Objects/
+*.uvguix.*
+
+# Ceedling files
 build/
